@@ -1,0 +1,28 @@
+
+/* .chasmay{
+    display: block !important;
+margin: auto !important;
+paddi-ng: auto !important;
+width: auto !important;
+
+} */
+.talse{
+    width: 100%;
+    height: 300px;
+}
+.mens{
+       border-radius: 50%;
+        text-align: justify;
+
+
+
+
+}
+    .span{
+        text-decoration: none;
+    }
+    .image{
+        display: block !important;
+        justify-content: center !important;
+        flex-direction: row-reverse;
+    }
